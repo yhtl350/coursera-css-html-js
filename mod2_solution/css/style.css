@@ -1,0 +1,85 @@
+
+@media (min-width: 992px){
+    .desktop{
+        float: left;
+        width: 30%;
+        margin: 10px;
+        margin: 10px;   
+        border: solid black 2px;
+        background-color:  #876c20;
+        position: relative;
+    }
+    .headline{
+        background-color: aqua;
+        position: absolute;
+        right: 0;
+        top: -66px;
+        font-size: 65px;
+    
+    }
+}
+p{
+    font-size: 60px;
+}
+
+h1{
+    text-align: center;
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .tablet{
+        float: left;
+        width: 47%;
+        margin: 7px;   
+        border: solid black 2px;
+        background-color:  #876c20;
+        position: relative;
+    }
+    #entire{
+        clear: both;
+        width: 100%;
+        background-color:  #876c20;
+        border: solid black 2px;
+        position: relative;
+    }
+    .headline{
+        background-color: aqua;
+        position: absolute;
+        right: 0;
+        top: -66px;
+        font-size: 65px;
+    
+    }
+}
+@media (max-width: 767px){
+    .mobile{
+        width: 100%;
+        clear: both;
+        margin: 10px;   
+        border: solid black 2px;
+        background-color:  #876c20;
+        position: relative;
+    }
+    .headline{
+        background-color: aqua;
+        position: absolute;
+        right: 0;
+        top: -66px;
+        font-size: 65px;
+    
+    }
+}
+#row{
+    margin: 0, auto;
+}
+
+*{
+    box-sizing: border-box;
+}
+#HugeTitle{
+    size: 105px;
+    text-align: center;
+}
+.DummyText{
+    margin-top: 200px;
+}
