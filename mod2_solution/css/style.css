@@ -82,9 +82,11 @@ h1{
 .DummyText{
     margin-top: 200px;
 }
+#A{
+    background-color: aqua;
 #B{
-    background-color: #f5ad42
+    background-color: #f5ad42;
 }
 #C{
-    background-color: #bea4eb
+    background-color: #bea4eb;
 }
