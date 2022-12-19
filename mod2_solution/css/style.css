@@ -53,6 +53,8 @@ h1{
 }
 @media (max-width: 767px){
     .mobile{
+        
+        background-color: aqua;
         width: 100%;
         clear: both;
         margin: 10px;   
