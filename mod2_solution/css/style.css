@@ -10,7 +10,6 @@
         position: relative;
     }
     .headline{
-        background-color: aqua;
         position: absolute;
         right: 0;
         top: -66px;
@@ -43,7 +42,6 @@ h1{
         position: relative;
     }
     .headline{
-        background-color: aqua;
         position: absolute;
         right: 0;
         top: -66px;
@@ -54,7 +52,6 @@ h1{
 @media (max-width: 767px){
     .mobile{
         
-        background-color: aqua;
         width: 100%;
         clear: both;
         margin: 10px;   
@@ -67,6 +64,7 @@ h1{
         right: 0;
         top: -66px;
         font-size: 65px;
+        background-color: aqua;
     
     }
 }
