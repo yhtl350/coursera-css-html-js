@@ -61,7 +61,6 @@ h1{
         position: relative;
     }
     .headline{
-        background-color: aqua;
         position: absolute;
         right: 0;
         top: -66px;
